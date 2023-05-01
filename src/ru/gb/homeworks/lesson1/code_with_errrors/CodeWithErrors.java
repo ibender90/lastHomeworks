@@ -1,4 +1,4 @@
-package ru.gb.homeworks.code_with_errrors;
+package ru.gb.homeworks.lesson1.code_with_errrors;
 
 public class CodeWithErrors {
     public static void main(String[] args) {

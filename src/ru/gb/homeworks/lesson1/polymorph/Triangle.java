@@ -1,4 +1,4 @@
-package ru.gb.homeworks.polymorph;
+package ru.gb.homeworks.lesson1.polymorph;
 
 public class Triangle extends GeometricShape {
     private Double height;

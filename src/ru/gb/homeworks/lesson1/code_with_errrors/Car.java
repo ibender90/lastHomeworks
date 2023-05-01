@@ -1,13 +1,12 @@
-package ru.gb.homeworks.code_with_errrors;
+package ru.gb.homeworks.lesson1.code_with_errrors;
 
-public abstract class Car { // конструктор был бы ен лишним
+public abstract class Car implements Openable { // конструктор был бы ен лишним
     public Engine engine; // поле дожно быть private, здесь геттеры и сеттеры не имеют смысла
     private String color;
     private String name;
     protected void start() {
         System.out.println("Car starting");
     }
-    abstract void open();
     public Engine getEngine() {
         return engine;
     }

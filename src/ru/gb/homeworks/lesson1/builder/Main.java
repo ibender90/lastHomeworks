@@ -1,4 +1,4 @@
-package ru.gb.homeworks.builder;
+package ru.gb.homeworks.lesson1.builder;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ru.gb.homeworks.polymorph;
+package ru.gb.homeworks.lesson1.polymorph;
 
 public abstract class GeometricShape {
     private Double area;

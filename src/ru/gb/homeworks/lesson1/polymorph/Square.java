@@ -1,4 +1,4 @@
-package ru.gb.homeworks.polymorph;
+package ru.gb.homeworks.lesson1.polymorph;
 
 public class Square extends GeometricShape{
 
