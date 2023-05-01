@@ -1,4 +1,4 @@
-package ru.gb.homeworks.code_with_errrors;
+package ru.gb.homeworks.lesson1.code_with_errrors;
 
 //class Lorry extends Car, Moveable, Stopable { можно наследоваться толькео от одного класса
     class Lorry extends Car implements Moveable, Stopable {
